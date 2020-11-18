@@ -12,3 +12,8 @@ permalink: /
 | :- | :- |
 | Test val 1 | Test val 2 |
 
+```json
+{
+	"test_key": "test_val"
+}
+```

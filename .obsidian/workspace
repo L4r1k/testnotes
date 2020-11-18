@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_filters/001_Test1.md",
+            "file": "filters/001_Test1.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_filters/001_Test1.md"
+                "file": "filters/001_Test1.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_filters/001_Test1.md",
+    "filters/001_Test1.md",
     "index.md",
+    "_filters/001_Test1.md",
     "Untitled.md",
     "test.md",
     "Untitled 1.md",
     "001_Test1.md",
     "002 Test2.md",
     "001 Test1.md",
-    "002 Test.md",
-    "001 Test Note.md"
+    "002 Test.md"
   ]
 }

@@ -4,12 +4,11 @@ color_scheme: dark
 
 collections:
         filters:
-                permalink: "/:collection/:path/"
+                permalink: "/:collection/cloud/:path/"
                 output: true
+
 
 just_the_docs:
         collections:
                 filters:
                         name: Filters
-                        nav_exclude: false
-                        search_exclude: false

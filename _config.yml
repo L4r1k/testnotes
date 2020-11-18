@@ -1,3 +1,6 @@
+permalink: pretty
+relative_permalinks: true
+
 #theme: jekyll-theme-midnight
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark

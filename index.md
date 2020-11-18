@@ -18,4 +18,6 @@ permalink: /
 }
 ```
 
-[001_Test1](filters/001_Test1.md){: .btn .btn-purple }
+{: .btn .btn-purple }
+
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode') const cssFile = document.querySelector('[rel="stylesheet"]') const originalCssRef = cssFile.getAttribute('href') const darkModeCssRef = originalCssRef.replace('just-the-docs.css', 'dark-mode-preview.css') addEvent(toggleDarkMode, 'click', function(){ if (cssFile.getAttribute('href') === originalCssRef) { cssFile.setAttribute('href', darkModeCssRef) } else { cssFile.setAttribute('href', originalCssRef) } }) </script>

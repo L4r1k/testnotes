@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "filters/001_Test1.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md"
+                "file": "filters/001_Test1.md"
               }
             }
           }
@@ -76,10 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "filters/filters.md",
-    "filters/002_Test2.md",
     "filters/001_Test1.md",
+    "filters/002_Test2.md",
+    "filters/filters.md",
+    "index.md",
     "filters/Untitled.md",
     "_filters/001_Test1.md",
     "Untitled.md",

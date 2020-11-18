@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Test2.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Test2.md"
+                "file": "index.md"
               }
             }
           }
@@ -76,10 +76,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "001_Test1.md",
     "002 Test2.md",
     "001 Test1.md",
-    "index.md",
-    "Untitled.md",
     "002 Test.md",
     "001 Test Note.md"
   ]

@@ -1,2 +1,15 @@
 #theme: jekyll-theme-midnight
 remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
+collections:
+        filters:
+                permalink: "/:collection/:path/"
+                output: true
+
+just_the_docs:
+        collections:
+                filters:
+                        name: Filters
+                        nav_exclude: false
+                        search_exclude: false

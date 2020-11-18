@@ -4,7 +4,7 @@ color_scheme: dark
 
 collections:
         filters:
-                permalink: "/:collection/cloud/:path/"
+                permalink: "/:collection/:path/"
                 output: true
 
 
